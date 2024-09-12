@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @damiaac
-- 👀 I’m interested in doing some passion projects
+- 👀 I’m interested in doing some games, but nothing too serious at the moment 
 - 🌱 I’m currently learning how to code with renpy
-- 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 
 
